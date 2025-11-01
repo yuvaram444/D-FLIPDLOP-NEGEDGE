@@ -56,8 +56,8 @@ end
 endmodule
 ```
 ```
-Developed by: Deepak Kumar V
-RegisterNumber: 212224240029
+Developed by: YuVARAM S
+RegisterNumber: 212224230315
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
